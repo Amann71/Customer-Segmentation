@@ -55,16 +55,4 @@ Conclusion
 
 The customer segmentation project effectively identified patterns in customer behavior. The analysis highlights that while age has some influence on spending score, other factors like income and gender also play a role. The models provide a good starting point for predicting customer spending patterns, but further refinement could improve accuracy.
 
-How to Run
 
-Clone the repository:
-   git clone https://github.com/deependraxx/Customer-Segmentation-Project.git
-Navigate to the project directory:
-   cd Customer-Segmentation-Project
-Install the required libraries:
-   pip install -r requirements.txt
-Run the Jupyter Notebook to see the analysis:
-   jupyter notebook Customer_Segmentation.ipynb
-Requirements
-
-1.Python 3.7 or above 2.pandas 3.numpy 4.matplotlib 5.seaborn 6.scikit-learn 7.scipy
